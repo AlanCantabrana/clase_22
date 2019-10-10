@@ -1,0 +1,17 @@
+{
+  "name": "clase_22",
+  "version": "1.0.0",
+  "description": "",
+  "main": "register.js",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "json-server:start": "json-server --watch db.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

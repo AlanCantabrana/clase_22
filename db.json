@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "username": "AlanDemo",
+      "name": "alan",
+      "password": "democlass",
+      "id": 1
+    },
+    {
+      "username": "Aldo",
+      "name": "Aldo",
+      "password": "aldoDemo",
+      "id": 2
+    },
+    {
+      "name": "Carlos",
+      "username": "Demo",
+      "password": "registro1",
+      "id": 3
+    },
+    {
+      "name": "Carlos",
+      "username": "Demo",
+      "password": "registro1",
+      "id": 4
+    },
+    {
+      "name": "Lidia",
+      "username": "Mondragon",
+      "password": "godan",
+      "id": 5
+    },
+    {
+      "name": "Jorge",
+      "username": "JorgeJS",
+      "password": "Demo",
+      "id": 6
+    },
+    {
+      "name": "Fabiola",
+      "username": "FabiolaJS",
+      "password": "javascript",
+      "id": 7
+    },
+    {
+      "name": "Pedro",
+      "username": "PedroJS",
+      "password": "skdjaskdja",
+      "id": 8
+    }
+  ]
+}
